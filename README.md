@@ -1,4 +1,4 @@
-![logo]()
+
 <h1 align="center">Hi 👋, I'm MS2040329</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400"src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" > </img>
